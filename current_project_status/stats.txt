@@ -1,0 +1,33 @@
+# Entities info
+accounts                 : 645 records
+currencies               : 4 records
+customers                : 1585 records
+departments              : 8 records
+employees                : 34 records
+files                    : 3638 records
+folders                  : 631 records
+items                    : 158 records
+locations                : 39 records
+price_level              : 5 records
+subsidiaries             : 49 records
+tax_groups               : 1 records
+tax_items                : 1 records
+terms                    : 12 records
+vendors                  : 4071 records
+
+vendor_bills             : 322823 records
+vendor_payments          : 195156 records
+adv_inter_company_journal_entries: 102411 records
+
+# Errors
+invoices                 : Error Invoice is not a searchable NetSuite type!
+journal_entries          : Error code: MEMORIZED_TRANS_ERROR, message: An error occured in a searchMoreWithId request: Attempting to access memorized transaction as a non-memorized transaction.
+vendor_credits           : Error VendorCredit is not a searchable NetSuite type!
+credit_memos             : Error CreditMemo is not a searchable NetSuite type!
+usages                   : Error 'UsageSearch'
+custom_lists             : Error org.xml.sax.SAXException: customList is not a legal value for {urn:types.core_2024_1.platform.webservices.netsuite.com}GetAllRecordType
+custom_record_types      : Error CustomRecordType is not a searchable NetSuite type!
+custom_records           : Error code: INVALID_CSTM_RCRD_TYPE_KEY, message: An error occured in a search request: Invalid custom record type
+custom_segments          : Error org.xml.sax.SAXException: customSegment is not a legal value for {urn:types.core_2024_1.platform.webservices.netsuite.com}GetAllRecordType
+
+
