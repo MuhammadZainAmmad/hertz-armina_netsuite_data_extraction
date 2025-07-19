@@ -1,0 +1,89 @@
+nullFieldList,name,owner,isOrdered,description,isMatrixOption,scriptId,convertToCustomRecord,isInactive,customValueList,translationsList,internalId
+,Rating,"{""name"": ""Caitlyn Christy"", ""internalId"": ""-5"", ""externalId"": null, ""type"": null}",True,,,customlist_esc_ratings,,False,,,102
+,Industry,"{""name"": ""Caitlyn Christy"", ""internalId"": ""-5"", ""externalId"": null, ""type"": null}",False,,,customlist_esc_industries,,False,,,103
+,Scorecard Comparison Type,"{""name"": ""Caitlyn Christy"", ""internalId"": ""-5"", ""externalId"": null, ""type"": null}",True,,,customlist_dt_tile_comparetype,,False,,,111
+,Dashboard Tile Alert Operators,"{""name"": ""Caitlyn Christy"", ""internalId"": ""-5"", ""externalId"": null, ""type"": null}",True,,,customlist_dt_tile_alertops,,False,,,112
+,Dashboard Tile Types,"{""name"": ""Caitlyn Christy"", ""internalId"": ""-5"", ""externalId"": null, ""type"": null}",True,,,customlist_dt_tile_type,,False,,,113
+,Dashboard Tile Trans Fields,"{""name"": ""Caitlyn Christy"", ""internalId"": ""-5"", ""externalId"": null, ""type"": null}",True,,,customlist_dt_tile_transflds,,False,,,114
+,Scorecard Summary Type,"{""name"": ""Caitlyn Christy"", ""internalId"": ""-5"", ""externalId"": null, ""type"": null}",True,,,customlist_dt_tile_summarytype,,False,,,115
+,Dashboard Wrapping,"{""name"": ""Caitlyn Christy"", ""internalId"": ""-5"", ""externalId"": null, ""type"": null}",True,,,customlist_dt_wrapping,,False,,,116
+,DT Translatable Fields,"{""name"": ""Caitlyn Christy"", ""internalId"": ""-5"", ""externalId"": null, ""type"": null}",True,,,customlist_dt_translatable_flds,,False,,,117
+,Approved by Creator,"{""name"": ""Caitlyn Christy"", ""internalId"": ""-5"", ""externalId"": null, ""type"": null}",True,,,customlist_atlas_appr_by_creator,,False,,,118
+,Link,"{""name"": ""Caitlyn Christy"", ""internalId"": ""-5"", ""externalId"": null, ""type"": null}",True,,,customlist_atlas_link,,False,,,119
+,Customer Type,"{""name"": ""Caitlyn Christy"", ""internalId"": ""-5"", ""externalId"": null, ""type"": null}",True,,,customlist_atlas_cust_type,,False,,,120
+,License Cache Status,"{""name"": ""Caitlyn Christy"", ""internalId"": ""-5"", ""externalId"": null, ""type"": null}",True,License Cache Status:<br>ACTIVE<br>STALE - when license cache record is replaced by a new record (by pulling/requesting new license data)<br>UNKNOWN- when the server is not responding (after n retries) and if license data has been tampered with,,customlist_8299_license_cache_status,,False,,,125
+,Client Audit Trail Type,"{""name"": ""Caitlyn Christy"", ""internalId"": ""-5"", ""externalId"": null, ""type"": null}",True,,,customlist_8299_cat_type,,False,,,126
+,Payment Type,"{""name"": ""Caitlyn Christy"", ""internalId"": ""-5"", ""externalId"": null, ""type"": null}",True,,,customlist_2663_payment_type,,False,,,151
+,Billing Type,"{""name"": ""Caitlyn Christy"", ""internalId"": ""-5"", ""externalId"": null, ""type"": null}",True,,,customlist_2663_billing_type,,False,,,152
+,EFT Processing Status,"{""name"": ""Caitlyn Christy"", ""internalId"": ""-5"", ""externalId"": null, ""type"": null}",True,EFT Processing Status,,customlist_2663_process_status,,False,,,153
+,Localization Processing Result,"{""name"": ""Caitlyn Christy"", ""internalId"": ""-5"", ""externalId"": null, ""type"": null}",True,This list contains the status of the payment template request.<br><br>Passed – This status indicates that the payment file template request is successful.<br><br>Failed – This status is displayed when the payment file template request has not been generated successfully due to errors encountered while processing.,,customlist_12194_processing_result,,False,,,154
+,Approval Level,"{""name"": ""Caitlyn Christy"", ""internalId"": ""-5"", ""externalId"": null, ""type"": null}",True,,,customlist_2663_approval_level,,False,,,155
+,EP Process,"{""name"": ""Caitlyn Christy"", ""internalId"": ""-5"", ""externalId"": null, ""type"": null}",True,,,customlist_2663_ep_process,,False,,,156
+,EP Output File Encoding,"{""name"": ""Caitlyn Christy"", ""internalId"": ""-5"", ""externalId"": null, ""type"": null}",True,Based on NetSuite's accepted encoding for a file,,customlist_2663_output_file_encoding,,False,,,157
+,Entity Bank Detail Type,"{""name"": ""Caitlyn Christy"", ""internalId"": ""-5"", ""externalId"": null, ""type"": null}",True,,,customlist_2663_entity_bank_type,,False,,,158
+,Payment Batch Priority,"{""name"": ""Caitlyn Christy"", ""internalId"": ""-5"", ""externalId"": null, ""type"": null}",True,,,customlist_2663_batch_priority,,False,,,159
+,Account Type,"{""name"": ""Caitlyn Christy"", ""internalId"": ""-5"", ""externalId"": null, ""type"": null}",True,,,customlist_2663_acct_type,,False,,,160
+,Schedule Type,"{""name"": ""Caitlyn Christy"", ""internalId"": ""-5"", ""externalId"": null, ""type"": null}",True,,,customlist_2663_schedule_type,,False,,,161
+,Payment Batch Status,"{""name"": ""Caitlyn Christy"", ""internalId"": ""-5"", ""externalId"": null, ""type"": null}",True,,,customlist_2663_batch_status,,False,,,162
+,Week of Month,"{""name"": ""Caitlyn Christy"", ""internalId"": ""-5"", ""externalId"": null, ""type"": null}",True,,,customlist_2663_week_of_month,,False,,,163
+,Day of Week,"{""name"": ""Caitlyn Christy"", ""internalId"": ""-5"", ""externalId"": null, ""type"": null}",True,,,customlist_2663_day_of_week,,False,,,164
+,Direct Debit Type,"{""name"": ""Caitlyn Christy"", ""internalId"": ""-5"", ""externalId"": null, ""type"": null}",True,,,customlist_2663_direct_debit_type,,False,,,165
+,Bank Account Type,"{""name"": ""Caitlyn Christy"", ""internalId"": ""-5"", ""externalId"": null, ""type"": null}",True,,,customlist_2663_bank_acct_type,,False,,,166
+,Reference Amended Type,"{""name"": ""Caitlyn Christy"", ""internalId"": ""-5"", ""externalId"": null, ""type"": null}",True,,,customlist_2663_reference_amended_type,,False,,,167
+,Payment Priority,"{""name"": ""Caitlyn Christy"", ""internalId"": ""-5"", ""externalId"": null, ""type"": null}",True,,,customlist_ep_payment_priority,,False,,,168
+,Payment Mode,"{""name"": ""Caitlyn Christy"", ""internalId"": ""-5"", ""externalId"": null, ""type"": null}",True,Used to source the payment mode values i.e. In-transit and Simple.,,customlist_11664_payment_mode,,False,,,169
+,Schedule Event Type,"{""name"": ""Caitlyn Christy"", ""internalId"": ""-5"", ""externalId"": null, ""type"": null}",True,,,customlist_2663_schedule_event_type,,False,,,170
+,Bank Fee Code,"{""name"": ""Caitlyn Christy"", ""internalId"": ""-5"", ""externalId"": null, ""type"": null}",True,,,customlist_2663_bank_fee_code,,False,,,171
+,Approval Type,"{""name"": ""Caitlyn Christy"", ""internalId"": ""-5"", ""externalId"": null, ""type"": null}",True,,,customlist_2663_approval_type,,False,,,172
+,Recurrence,"{""name"": ""Caitlyn Christy"", ""internalId"": ""-5"", ""externalId"": null, ""type"": null}",True,,,customlist_2663_recurrence,,False,,,173
+,ED Configurable Field List,"{""name"": ""Caitlyn Christy"", ""internalId"": ""-5"", ""externalId"": null, ""type"": null}",True,,,customlist_ed_config_list,,False,,,176
+,Subsidiary Types,"{""name"": ""Carolina Sanchez"", ""internalId"": ""6"", ""externalId"": null, ""type"": null}",False,,,customlist177,,False,,,177
+,Subsidiary Type,"{""name"": ""Carolina Sanchez"", ""internalId"": ""6"", ""externalId"": null, ""type"": null}",False,,,customlist178,,False,,,178
+,Patient MRN Number List,"{""name"": ""Khadine Karamath"", ""internalId"": ""5"", ""externalId"": null, ""type"": null}",True,,,customlist_listmrnnumber_,,False,,,179
+,NS UAT Sub Category,"{""name"": ""Carolina Sanchez"", ""internalId"": ""6"", ""externalId"": null, ""type"": null}",False,,,customlist75,,False,,,217
+,Environment types,"{""name"": ""Carolina Sanchez"", ""internalId"": ""6"", ""externalId"": null, ""type"": null}",True,Types of environments used for the implementation and testing of functionalities for a given engagement.,,customlist_ns_ibe_environment_types,,False,,,218
+,Engagement Types,"{""name"": ""Carolina Sanchez"", ""internalId"": ""6"", ""externalId"": null, ""type"": null}",True,Types of engagements.,,customlist_ns_ibe_engagement_types,,False,,,219
+,NetSuite PM Risk Impact List,"{""name"": ""Carolina Sanchez"", ""internalId"": ""6"", ""externalId"": null, ""type"": null}",True,,,customlist_ns_pm_risk_impact_list,,False,,,220
+,NetSuite PM Milestone Schedule,"{""name"": ""Carolina Sanchez"", ""internalId"": ""6"", ""externalId"": null, ""type"": null}",True,,,customlist_ns_pm_milestone_schedule,,False,,,221
+,NetSuite TS Issue Type Listing,"{""name"": ""Carolina Sanchez"", ""internalId"": ""6"", ""externalId"": null, ""type"": null}",True,,,customlist_ns_ts_issue_type_list,,False,,,222
+,NetSuite PM Project Type,"{""name"": ""Carolina Sanchez"", ""internalId"": ""6"", ""externalId"": null, ""type"": null}",True,,,customlist_ns_pm_projectype,,False,,,223
+,Vertical,"{""name"": ""Carolina Sanchez"", ""internalId"": ""6"", ""externalId"": null, ""type"": null}",True,,,customlist_ns_pm_vertical,,False,,,224
+,Change Log Change Type,"{""name"": ""Carolina Sanchez"", ""internalId"": ""6"", ""externalId"": null, ""type"": null}",True,This list is used in the Change Log in the Change Type field.,,customlist_ns_one_change_log_type_list,,False,,,225
+,NetSuite PM Issue Status List,"{""name"": ""Carolina Sanchez"", ""internalId"": ""6"", ""externalId"": null, ""type"": null}",True,,,customlist_ns_pm_issue_status_list,,False,,,226
+,NetSuite Stage Listing,"{""name"": ""Carolina Sanchez"", ""internalId"": ""6"", ""externalId"": null, ""type"": null}",True,,,customlist_ns_pm_one_stage_listing,,False,,,227
+,NetSuite PM Status Code List,"{""name"": ""Carolina Sanchez"", ""internalId"": ""6"", ""externalId"": null, ""type"": null}",False,,,customlist_ns_pm_status_code_list,,False,,,228
+,NetSuite TS Priority List,"{""name"": ""Carolina Sanchez"", ""internalId"": ""6"", ""externalId"": null, ""type"": null}",True,,,customlist_ns_ts_priority_list,,False,,,229
+,NS UAT Markets,"{""name"": ""Carolina Sanchez"", ""internalId"": ""6"", ""externalId"": null, ""type"": null}",True,,,customlist72,,False,,,230
+,NetSuite TS Test Phase List,"{""name"": ""Carolina Sanchez"", ""internalId"": ""6"", ""externalId"": null, ""type"": null}",True,,,customlist_ns_ts_test_phase_list,,False,,,231
+,Cutover Activity,"{""name"": ""Carolina Sanchez"", ""internalId"": ""6"", ""externalId"": null, ""type"": null}",True,,,customlist77,,False,,,232
+,NS UAT Vertical,"{""name"": ""Carolina Sanchez"", ""internalId"": ""6"", ""externalId"": null, ""type"": null}",True,,,customlist73,,False,,,233
+,Qualification,"{""name"": ""Carolina Sanchez"", ""internalId"": ""6"", ""externalId"": null, ""type"": null}",True,,,customlist_ns_one_req_qualification,,False,,,234
+,NetSuite PM Issue Priorities,"{""name"": ""Carolina Sanchez"", ""internalId"": ""6"", ""externalId"": null, ""type"": null}",True,,,customlist_ns_pm_priority_list,,False,,,235
+,NetSuite TS Fix Type List,"{""name"": ""Carolina Sanchez"", ""internalId"": ""6"", ""externalId"": null, ""type"": null}",True,,,customlist_ns_ts_fix_type_list,,False,,,236
+,NetSuite TS Base Status List,"{""name"": ""Carolina Sanchez"", ""internalId"": ""6"", ""externalId"": null, ""type"": null}",True,,,customlist_ns_ts_base_status_list,,False,,,237
+,NetSuite PS Cutover Status,"{""name"": ""Carolina Sanchez"", ""internalId"": ""6"", ""externalId"": null, ""type"": null}",True,,,customlist_ns_ps_cutover_status_list,,False,,,238
+,NS UAT Region,"{""name"": ""Carolina Sanchez"", ""internalId"": ""6"", ""externalId"": null, ""type"": null}",True,,,customlist74,,False,,,239
+,Change Order Status,"{""name"": ""Carolina Sanchez"", ""internalId"": ""6"", ""externalId"": null, ""type"": null}",True,,,customlist_change_order_status,,False,,,240
+,NetSuite Review Decision,"{""name"": ""Carolina Sanchez"", ""internalId"": ""6"", ""externalId"": null, ""type"": null}",True,This list is used on the Change Log record in the Decision field.,,customlist_ns_one_change_log_rev_dec,,False,,,241
+,NetSuite PM Risk Resolutions,"{""name"": ""Carolina Sanchez"", ""internalId"": ""6"", ""externalId"": null, ""type"": null}",True,,,customlist_ns_pm_risk_resolution_list,,False,,,242
+,NetSuite TS Deployed To List,"{""name"": ""Carolina Sanchez"", ""internalId"": ""6"", ""externalId"": null, ""type"": null}",True,,,customlist_ns_ts_deployed_to_list,,False,,,243
+,NetSuite PS UAT Item Status,"{""name"": ""Carolina Sanchez"", ""internalId"": ""6"", ""externalId"": null, ""type"": null}",True,,,customlist_ns_ps_uat_status_listing,,False,,,244
+,NS UAT Language,"{""name"": ""Carolina Sanchez"", ""internalId"": ""6"", ""externalId"": null, ""type"": null}",False,,,customlist76,,False,,,245
+,NetSuite PM Risk Prob. List,"{""name"": ""Carolina Sanchez"", ""internalId"": ""6"", ""externalId"": null, ""type"": null}",True,,,customlist_ns_pm_risk_prob_list,,False,,,246
+,NetSuite PM Issue Type List,"{""name"": ""Carolina Sanchez"", ""internalId"": ""6"", ""externalId"": null, ""type"": null}",True,,,customlist_ns_pm_issue_type_list,,False,,,247
+,NetSuite TS Feature List,"{""name"": ""Carolina Sanchez"", ""internalId"": ""6"", ""externalId"": null, ""type"": null}",True,,,customlist_ns_ts_feature_list,,False,,,248
+,NetSuite PS AI Priority,"{""name"": ""Carolina Sanchez"", ""internalId"": ""6"", ""externalId"": null, ""type"": null}",True,,,customlist_ns_ps_action_item_priority,,False,,,249
+,NetSuite PM Risk Severity List,"{""name"": ""Carolina Sanchez"", ""internalId"": ""6"", ""externalId"": null, ""type"": null}",True,,,customlist_ns_pm_risk_severity_list,,False,,,250
+,NetSuite Milestone Status List,"{""name"": ""Carolina Sanchez"", ""internalId"": ""6"", ""externalId"": null, ""type"": null}",True,,,customlist_ns_pm_milestone_status_list,,False,,,251
+,NetSuite TS Bus Process List,"{""name"": ""Carolina Sanchez"", ""internalId"": ""6"", ""externalId"": null, ""type"": null}",False,,,customlist_ns_ts_bus_process_list,,False,,,252
+,NetSuite PS AI Status List,"{""name"": ""Carolina Sanchez"", ""internalId"": ""6"", ""externalId"": null, ""type"": null}",True,,,customlist_ns_ps_action_item_status,,False,,,253
+,NetSuite PS Business Process,"{""name"": ""Carolina Sanchez"", ""internalId"": ""6"", ""externalId"": null, ""type"": null}",False,,,customlist_ns_ps_process_list,,False,,,254
+,Bill.com Payment Method,"{""name"": ""Caitlyn Christy"", ""internalId"": ""-5"", ""externalId"": null, ""type"": null}",False,,,customlist_cps_bdc_payment_method,,False,,,267
+,Bill.com Sync Status,"{""name"": ""Caitlyn Christy"", ""internalId"": ""-5"", ""externalId"": null, ""type"": null}",True,,,customlist_cps_bdc_sync_status,,False,,,268
+,API Types,"{""name"": ""Sam  Leiding"", ""internalId"": ""54"", ""externalId"": null, ""type"": null}",True,,,customlist_bf_api_types,,False,,,269
+,ACH EP Migration Recordtype,"{""name"": ""Caitlyn Christy"", ""internalId"": ""-5"", ""externalId"": null, ""type"": null}",True,,,customlist_ach_ep_migration_recordtype,,False,,,369
+,Cash 360 Account Category Type,"{""name"": ""Curtis"", ""internalId"": ""14"", ""externalId"": null, ""type"": null}",True,,,customlist_cash360_accountcategorytype,,False,,,370
+,Cash 360 Data to Use,"{""name"": ""Curtis"", ""internalId"": ""14"", ""externalId"": null, ""type"": null}",True,,,customlist_cash360_data_to_use,,False,,,371
+,Cash 360 Forecast By,"{""name"": ""Curtis"", ""internalId"": ""14"", ""externalId"": null, ""type"": null}",True,,,customlist_cash360_forecastby,,False,,,372
+,Cash 360 Period Type,"{""name"": ""Curtis"", ""internalId"": ""14"", ""externalId"": null, ""type"": null}",True,,,customlist_cash360_period_type,,False,,,373
+,EP Log Type,"{""name"": ""Caitlyn Christy"", ""internalId"": ""-5"", ""externalId"": null, ""type"": null}",True,,,customlist_15906_ep_log_type,,False,,,471
